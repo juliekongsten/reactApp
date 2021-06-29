@@ -8,6 +8,4 @@ function App() {
   );
 }
 
-//exports this function to use it in index.js 
-//it's a component
 export default App;
